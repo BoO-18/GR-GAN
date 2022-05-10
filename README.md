@@ -2,7 +2,7 @@
 
 Pytorch implementation for reproducing GR-GAN results in the paper `GRADUAL REFINEMENT TEXT-TO-IMAGE GENERATION`
 
-<img src="framework.png" width="900px" height="350px"/>
+<img src="GAN_Model_V4.png" width="900px" height="350px"/>
 
 # Usage
 Get the code from github:`git clone https://github.com/BoO-18/GR-GAN.git`
