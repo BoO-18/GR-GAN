@@ -2,7 +2,7 @@
 
 Pytorch implementation for reproducing GR-GAN results in the paper `GRADUAL REFINEMENT TEXT-TO-IMAGE GENERATION`
 
-<img src="GAN_Model_V4.png" width="900px" height="350px"/>
+<img src="GAN_Model_V4.png" width="900px" height="550px"/>
 
 # Usage
 Get the code from github:`git clone https://github.com/BoO-18/GR-GAN.git`
@@ -24,7 +24,7 @@ Folder CLIP is code from [OPENAI](https://github.com/openai/CLIP) with some chan
 - `*.yml` files are example configuration files for training/evaluation our models.
 
 **Pretrained Model**
-Pretrained Models will be uploaded soon.
+- Pretrained Models will be uploaded soon.
 
 **Demo**
-File `code/demo.ipynb` is a detailed usage example for GR-GAN.
+- File `code/demo.ipynb` is a detailed usage example for GR-GAN.
