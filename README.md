@@ -7,7 +7,7 @@ Pytorch implementation for reproducing GR-GAN results in the paper `GRADUAL REFI
 # Usage
 Get the code from github:`git clone https://github.com/BoO-18/GR-GAN.git`
 
-Create a new conda env:`conda create -n grgan pytohn=3.7`
+Create a new conda env:`conda create -n grgan python=3.7`
 
 Folder CLIP is code from [OPENAI](https://github.com/openai/CLIP) with some changes to the output of the image encoder and text encoder. You should run:`pip install CLIP`to install it. 
 
