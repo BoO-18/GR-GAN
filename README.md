@@ -1,6 +1,6 @@
 # GR-GAN
 
-Pytorch implementation for reproducing GR-GAN results in the paper `GRADUAL REFINEMENT TEXT-TO-IMAGE GENERATION`
+Pytorch implementation for reproducing GR-GAN results in the paper [GRADUAL REFINEMENT TEXT-TO-IMAGE GENERATION](https://arxiv.org/abs/2205.11273)
 
 <img src="GAN_Model_V4.png" width="900px" height="550px"/>
 
