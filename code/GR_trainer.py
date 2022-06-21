@@ -380,7 +380,6 @@ class condGANTrainer(object):
             im = Image.fromarray(ndarr)
             im.save(fullpath)
 
-
     def sampling(self, split_dir, num_samples=30000):
         if cfg.TRAIN.NET_G == '':
             print('Error: the path for morels is not found!')

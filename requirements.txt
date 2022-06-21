@@ -1,0 +1,6 @@
+numpy
+easydict
+nltk
+pandas
+scikit-image
+pyyaml

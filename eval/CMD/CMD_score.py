@@ -20,7 +20,7 @@ import torch.nn as nn
 parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
 parser.add_argument('--batch-size', type=int, default=64,
                     help='Batch size to use')
-parser.add_argument('--dims', type=int, default=2048,
+parser.add_argument('--dims', type=int, default=512,
                     help=('Dimensionality of Inception features to use. '
                           'By default, uses pool3 features'))
 parser.add_argument('-c', '--gpu', default='', type=str,
