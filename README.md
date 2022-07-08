@@ -26,8 +26,8 @@ Folder CLIP is code from [OPENAI](https://github.com/openai/CLIP) with some chan
 - `*.yml` files are example configuration files for training/evaluation our models.
 
 **Pretrained Model**
-- [ITM for coco](https://pan.baidu.com/s/12MiPrA1NMteUAPzXq-XZFg?pwd=jnzz)提取码(Extraction code)：`jnzz`. Download and save it to `models/`
-- [GR-GAN for coco](https://pan.baidu.com/s/1pqtzFcgxcX6rl5tpCAkXjg?pwd=lbre)提取码(Extraction code)：`lbre`. Download and save it to `models/`
+- [ITM for coco](https://drive.google.com/drive/folders/1j1RIy3BRI-pfAP4qaSn4ugnFXLymEg_Q?usp=sharing) or [Use Alternate address](https://pan.baidu.com/s/12MiPrA1NMteUAPzXq-XZFg?pwd=jnzz)提取码(Extraction code)：`jnzz`. Download and save it to `models/`
+- [GR-GAN for coco](https://drive.google.com/drive/folders/1VYZREC7gQbNIabr0L2rxoh5Jv2Vdy2Ah?usp=sharing) or [Use Alternate address](https://pan.baidu.com/s/1pqtzFcgxcX6rl5tpCAkXjg?pwd=lbre)提取码(Extraction code)：`lbre`. Download and save it to `models/`
 
 **Demo**
 - File `code/demo.ipynb` is a detailed usage example for GR-GAN.
